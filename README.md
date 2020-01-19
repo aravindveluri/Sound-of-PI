@@ -1,5 +1,7 @@
 # Sound-of-PI
-Python program that computes and plays each digit of PI as a musical note. This version plays the notes in C Major Scale :). Have fun listening to the music of Pi!!
+Python program that computes and plays each digit of PI as a musical note. This version plays the notes in C Major Scale :)
+
+Have fun listening to the music of Pi!!
 
 ## Requirements:
 
